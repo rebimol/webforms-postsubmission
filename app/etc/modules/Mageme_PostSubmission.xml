@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Mageme_PostSubmission>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Mageme_PostSubmission>
+    </modules>
+</config>
